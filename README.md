@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Wale a very passionate oftware developer.<br><br>- 🔭 I’m working as a Software Developer<br>- 📚 I'm currently learning AI and Cloud technologies<br>- ⚡ In my free time I read books and build projects</p>
+<p align="left">I'm Wale a very passionate Software developer.<br><br>- 🔭 I’m working as a Software Developer<br>- 📚 I'm currently learning AI and Cloud technologies<br>- ⚡ In my free time I read books and build projects</p>
 
 ###
 
